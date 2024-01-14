@@ -1,7 +1,8 @@
 <h1 align="center">MeowScript</h1>
 
+[![Whats-App-Image-2024-01-14-at-21-40-52-ac449fab.jpg](https://i.postimg.cc/8P6Rsz1p/Whats-App-Image-2024-01-14-at-21-40-52-ac449fab.jpg)](https://postimg.cc/SJm2vq23)
+
 <p align="center">
-  This is official repository for MeowScript.<br><br>
   <b>It is a fun programming language written in Python.</b>
 </p>
 
